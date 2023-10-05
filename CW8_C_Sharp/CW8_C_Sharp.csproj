@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FreightCar.cs" />
     <Compile Include="ICargoCarrier.cs" />
     <Compile Include="IDriveable.cs" />
     <Compile Include="IElectricVehicle.cs" />
